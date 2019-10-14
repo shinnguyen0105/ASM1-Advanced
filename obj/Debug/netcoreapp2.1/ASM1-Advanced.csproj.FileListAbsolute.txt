@@ -1,0 +1,11 @@
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\bin\Debug\netcoreapp2.1\ASM1-Advanced.deps.json
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\bin\Debug\netcoreapp2.1\ASM1-Advanced.runtimeconfig.json
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\bin\Debug\netcoreapp2.1\ASM1-Advanced.runtimeconfig.dev.json
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\bin\Debug\netcoreapp2.1\ASM1-Advanced.dll
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\bin\Debug\netcoreapp2.1\ASM1-Advanced.pdb
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\obj\Debug\netcoreapp2.1\ASM1-Advanced.csprojAssemblyReference.cache
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\obj\Debug\netcoreapp2.1\ASM1-Advanced.csproj.CoreCompileInputs.cache
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\obj\Debug\netcoreapp2.1\ASM1-Advanced.AssemblyInfoInputs.cache
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\obj\Debug\netcoreapp2.1\ASM1-Advanced.AssemblyInfo.cs
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\obj\Debug\netcoreapp2.1\ASM1-Advanced.dll
+D:\Greenwich\Advanced-Programming\ASM1-Advanced\ASM1-Advanced\obj\Debug\netcoreapp2.1\ASM1-Advanced.pdb
